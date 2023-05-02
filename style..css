@@ -1,0 +1,15 @@
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border: white 5px solid;
+    border-radius: 20px;
+}
+
+#footer{
+    text-align: center;
+     float: none;
+      position: fixed; 
+background-color: black;
+ color: aliceblue;
+  width:100%;
+   bottom: 0px;
+}
